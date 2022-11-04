@@ -29,4 +29,4 @@ plt.show()
 
 #--------------------------------------------kmean2d
 
-
+![Screenshot](Kmean2d.png)
