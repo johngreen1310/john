@@ -29,4 +29,11 @@ plt.show()
 
 #--------------------------------------------kmean2d
 
+![Screenshot](kmean2d.png)
 
+
+#--------------------------------------------apriori
+
+![Screenshot](apriori.png)
+
+![Screenshot](apriori2.png)
