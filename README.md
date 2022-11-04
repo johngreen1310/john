@@ -37,3 +37,8 @@ plt.show()
 ![Screenshot](apriori.png)
 
 ![Screenshot](apriori2.png)
+
+
+
+#------------------------Bayesian
+![Screenshot](Bayesian.png)
