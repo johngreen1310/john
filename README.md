@@ -15,6 +15,7 @@ plt.ylabel("Frequency")
 #plt.savefig("hist.png")
 plt.show()
 
+![Screenshot](image.png)
 
 
 
